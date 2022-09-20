@@ -3,6 +3,7 @@
 
 ## **Decentralized ToDo WebApp**
 
+ - [x] *Final Branch -* ```fin```
 
 ---
 ## Requirements
